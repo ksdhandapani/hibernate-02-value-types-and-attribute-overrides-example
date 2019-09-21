@@ -1,0 +1,1 @@
+# hibernate-02-value-types-and-attribute-overrides-example
