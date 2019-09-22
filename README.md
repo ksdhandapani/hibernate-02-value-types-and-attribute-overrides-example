@@ -6,7 +6,8 @@ Postman request details for saving an employee with home and office address.
 **Url :** http://localhost:8080/hibernate-02-value-types/api/employee
 **Request Body :**
 
-`{
+```
+{
 	"employeeId": 0,
 	"employeeName":"Chandru R",
 	"department":"Development",
@@ -22,13 +23,14 @@ Postman request details for saving an employee with home and office address.
 		"city":"Chennai",
 		"state": "Tamil Nadu",
 		"country": "India"
-		
 	}
-}`
+}
+```
 
 **Sample Response :**
 
-`{
+```
+{
     "data": {
         "employeeId": 1,
         "employeeName": "Chandru R",
@@ -50,5 +52,6 @@ Postman request details for saving an employee with home and office address.
     "message": "Employee saved successfully",
     "exception": false,
     "success": true
-}`
+}
+```
 
