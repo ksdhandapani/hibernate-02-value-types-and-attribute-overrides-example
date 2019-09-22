@@ -2,9 +2,9 @@
 
 Postman request details for saving an employee with home and office address.
 
-**Method :** POST
-**Url :** http://localhost:8080/hibernate-02-value-types/api/employee
-**Request Body :**
+- **Method :** POST
+- **Url :** http://localhost:8080/hibernate-02-value-types/api/employee
+- **Request Body :**
 
 ```
 {
